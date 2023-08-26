@@ -1,9 +1,10 @@
 /*
  * fibonacci.css
- * (c) 2016 by Jean-Charles Nadé - https://github.com/jcnade/fibonacci.css
+ * (c) 2016-2023 by Jean-Charles Nadé - https://github.com/jcnade/fibonacci.css
  * MIT License
  */
 
+/*  css width */
 .w1  { width: 1px }
 .w2  { width: 2px }
 .w3  { width: 3px }
@@ -52,6 +53,9 @@
 .m8  { margin: 34px }
 .m9  { margin: 55px }
 .m10 { margin: 89px }
+.m11 { margin: 144px }
+
+/*  css margin top with fibonacci scale  */
 
 .mt1  { margin-top: 1px }
 .mt2  { margin-top: 2px }
@@ -63,6 +67,9 @@
 .mt8  { margin-top: 34px }
 .mt9  { margin-top: 55px }
 .mt10 { margin-top: 89px }
+.mt11 { margin-top: 144px }
+
+/*  css margin bottom with fibonacci scale  */
 
 .mb1  { margin-bottom: 1px }
 .mb2  { margin-bottom: 2px }
@@ -74,6 +81,9 @@
 .mb8  { margin-bottom: 34px }
 .mb9  { margin-bottom: 55px }
 .mb10 { margin-bottom: 89px }
+.mb11 { margin-bottom: 144px }
+
+/*  css margin left with fibonacci scale  */
 
 .ml1  { margin-left: 1px }
 .ml2  { margin-left: 2px }
@@ -85,6 +95,9 @@
 .ml8  { margin-left: 34px }
 .ml9  { margin-left: 55px }
 .ml10 { margin-left: 89px }
+.ml11 { margin-left: 144px }
+
+/*  css margin right with fibonacci scale  */
 
 .mr1  { margin-right: 1px }
 .mr2  { margin-right: 2px }
@@ -96,8 +109,9 @@
 .mr8  { margin-right: 34px }
 .mr9  { margin-right: 55px }
 .mr10 { margin-right: 89px }
+.mr11 { margin-right: 144px }
 
-/*  fibonacci padding */
+/*  css padding with fibonacci scale  */
 
 .p1  { padding: 1px }
 .p2  { padding: 2px }
@@ -109,7 +123,9 @@
 .p8  { padding: 34px }
 .p9  { padding: 55px }
 .p10 { padding: 89px }
+.p11 { padding: 144px }
 
+/*  css padding top with fibonacci scale  */
 .pt1  { padding-top: 1px }
 .pt2  { padding-top: 2px }
 .pt3  { padding-top: 3px }
@@ -120,6 +136,9 @@
 .pt8  { padding-top: 34px }
 .pt9  { padding-top: 55px }
 .pt10 { padding-top: 89px }
+.pt10 { padding-top: 144px }
+
+/*  css padding bottom with fibonacci scale  */
 
 .pb1  { padding-bottom: 1px }
 .pb2  { padding-bottom: 2px }
@@ -131,6 +150,9 @@
 .pb8  { padding-bottom: 34px }
 .pb9  { padding-bottom: 55px }
 .pb10 { padding-bottom: 89px }
+.pb11 { padding-bottom: 144px }
+
+/*  css padding left with fibonacci scale  */
 
 .pl1  { padding-left: 1px }
 .pl2  { padding-left: 2px }
@@ -142,6 +164,9 @@
 .pl8  { padding-left: 34px }
 .pl9  { padding-left: 55px }
 .pl10 { padding-left: 89px }
+.pl11 { padding-left: 144px }
+
+/*  css padding right with fibonacci scale  */
 
 .pr1  { padding-right: 1px }
 .pr2  { padding-right: 2px }
@@ -153,4 +178,5 @@
 .pr8  { padding-right: 34px }
 .pr9  { padding-right: 55px }
 .pr10 { padding-right: 89px }
+.pr11 { padding-right: 144px }
 
